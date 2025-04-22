@@ -1,0 +1,15 @@
+I:\Programming\C#\Epam\Epam.NET\Test\bin\Debug\net8.0\Test.exe
+I:\Programming\C#\Epam\Epam.NET\Test\bin\Debug\net8.0\Test.deps.json
+I:\Programming\C#\Epam\Epam.NET\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+I:\Programming\C#\Epam\Epam.NET\Test\bin\Debug\net8.0\Test.dll
+I:\Programming\C#\Epam\Epam.NET\Test\bin\Debug\net8.0\Test.pdb
+I:\Programming\C#\Epam\Epam.NET\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+I:\Programming\C#\Epam\Epam.NET\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+I:\Programming\C#\Epam\Epam.NET\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+I:\Programming\C#\Epam\Epam.NET\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+I:\Programming\C#\Epam\Epam.NET\Test\obj\Debug\net8.0\Test.sourcelink.json
+I:\Programming\C#\Epam\Epam.NET\Test\obj\Debug\net8.0\Test.dll
+I:\Programming\C#\Epam\Epam.NET\Test\obj\Debug\net8.0\refint\Test.dll
+I:\Programming\C#\Epam\Epam.NET\Test\obj\Debug\net8.0\Test.pdb
+I:\Programming\C#\Epam\Epam.NET\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+I:\Programming\C#\Epam\Epam.NET\Test\obj\Debug\net8.0\ref\Test.dll
